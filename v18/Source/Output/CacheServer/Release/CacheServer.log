@@ -1,0 +1,38 @@
+﻿  StdAfx.cpp
+  CacheServer.cpp
+  crashstatus.cpp
+  DPCacheSrvr.cpp
+  DPClient.cpp
+  DPCoreClient.cpp
+  memtrace.cpp
+  messenger.cpp
+  packetlog.cpp
+  Player.cpp
+  rtmessenger.cpp
+  speedhackchecker.cpp
+  vutil.cpp
+  crc.cpp
+  buffer.cpp
+  clientsock.cpp
+  clientsocke.cpp
+  dpmng.cpp
+  dpsock.cpp
+  serversock.cpp
+  serversocke.cpp
+  Generating Code...
+  Compiling...
+  sock.cpp
+  ar.cpp
+  dos2.cpp
+  heapmng.cpp
+  MyTrace.cpp
+  ServerDesc.cpp
+  dxutil.cpp
+  debug.cpp
+  file.cpp
+  scanner.cpp
+  timer.cpp
+  xutil.cpp
+  exceptionhandler.cpp
+  Generating Code...
+  CacheServer.vcxproj -> C:\IAGOS\server\v18\Source\Output\CacheServer\Release\CacheServer.exe

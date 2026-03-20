@@ -1,0 +1,840 @@
+2026/03/19	17:40:49
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:40:52
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:40:53
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:40:54
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:41:37
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:41:39
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:41:40
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:41:40
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:41:40
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:41:40
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:41:41
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:41:43
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	17:43:09
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:09
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:09
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:13
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:13
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:16
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:16
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:19
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:19
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:22
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:22
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:25
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:25
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:28
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:28
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:31
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:31
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:34
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:34
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:37
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:37
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:40
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:40
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:43
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:43
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:43
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:43
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:43
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:46
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:46
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:47
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:47
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:49
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:49
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:50
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:50
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:52
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:52
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:53
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:53
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:55
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:55
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:56
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:56
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:58
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:58
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:59
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:43:59
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:01
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:01
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:02
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:02
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:04
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:04
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:05
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:05
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:07
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:07
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:08
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:08
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:10
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:10
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:11
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:11
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:13
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:13
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:14
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:14
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:16
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:16
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:17
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:17
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:19
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:19
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:20
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:20
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:22
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:22
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:23
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:23
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:25
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:25
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:26
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:26
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:28
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:28
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:28
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:28
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:28
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:28
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:29
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:29
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:31
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:31
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:32
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:32
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:34
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:34
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:35
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:35
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:37
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:37
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:38
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:38
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:40
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:40
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:40
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:40
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:41
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:41
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:43
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:43
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:44
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:44
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:46
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:46
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:47
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:47
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:49
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:49
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:50
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:50
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:53
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:53
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:56
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:56
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:59
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:44:59
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:02
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:02
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:02
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:02
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:02
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:02
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:04
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:04
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:05
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:05
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:08
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:08
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:11
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:11
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:14
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:14
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:17
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:17
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:20
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:20
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:23
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:45:23
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:14
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:14
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:14
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:18
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:18
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:21
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:21
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:24
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:24
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:24
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:24
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:24
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:27
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:27
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:30
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:30
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:33
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:33
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:36
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:36
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:39
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:39
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:42
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:42
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:45
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:45
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:46
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:46
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:48
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:48
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:49
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:49
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:51
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:51
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:52
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:52
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:54
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:54
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:55
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:55
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:57
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:57
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:58
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:47:58
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:00
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:00
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:01
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:01
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:03
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:03
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:04
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:04
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:06
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:06
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:07
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:07
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:09
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:09
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:10
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:10
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:12
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:12
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:13
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:13
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:15
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:15
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:16
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:16
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:18
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:18
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:19
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:19
+query:character01
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'sa'.
+2026/03/19	17:48:21
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:22
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:24
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:25
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:27
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:28
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:30
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:31
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:33
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:33
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:33
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:34
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:36
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:36
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:37
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:39
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:40
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:42
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:43
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:45
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:46
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:48
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:49
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:51
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:52
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:54
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:55
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:48:58
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:01
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:01
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:01
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:04
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:07
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:09
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:10
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:13
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:16
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:19
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	17:49:22
+query:character01
+SQLSTATE:IM002 error:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+2026/03/19	18:16:40
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	18:16:45
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	18:16:46
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	18:16:47
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	18:20:10
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	18:20:14
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.
+2026/03/19	18:20:15
+query:login
+SQLSTATE:28000 error:[Microsoft][SQL Server Native Client 11.0][SQL Server]Login failed for user 'account'.

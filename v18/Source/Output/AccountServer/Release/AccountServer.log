@@ -1,0 +1,37 @@
+﻿  StdAfx.cpp
+  account.cpp
+  AccountServer.cpp
+  DBManager.cpp
+  dpdbsrvr.cpp
+  dpsrvr.cpp
+  dpwldsrvr.cpp
+  globalgiftbox.cpp
+  ar.cpp
+  heapmng.cpp
+  mytrace.cpp
+  buffer.cpp
+  crc.cpp
+  sock.cpp
+  dxutil.cpp
+  debug.cpp
+  file.cpp
+  memtrace.cpp
+  scanner.cpp
+  timer.cpp
+  vutil.cpp
+  Generating Code...
+  Compiling...
+  xutil.cpp
+  Query.cpp
+  exceptionhandler.cpp
+  BillingMgr.cpp
+  BillingMgrJP.cpp
+  BillingMgrJP2.cpp
+  BillingMgrTH.cpp
+  BillingMgrTW.cpp
+  dpadbill.cpp
+  dpBilling.cpp
+  dpBillingTH.cpp
+  Generating Code...
+  des.c
+  AccountServer.vcxproj -> C:\IAGOS\server\v18\Source\Output\AccountServer\Release\AccountServer.exe

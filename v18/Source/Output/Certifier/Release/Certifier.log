@@ -1,0 +1,37 @@
+﻿  StdAfx.cpp
+  AccountMgr.cpp
+  certifier.cpp
+  DBManager.cpp
+  dpaccountclient.cpp
+  DPCertifier.cpp
+  memtrace.cpp
+  user.cpp
+  buffer.cpp
+  clientsock.cpp
+  clientsocke.cpp
+  crc.cpp
+  dpmng.cpp
+  dpsock.cpp
+  serversock.cpp
+  serversocke.cpp
+  sock.cpp
+  ar.cpp
+  DoS.cpp
+  dos2.cpp
+  heapmng.cpp
+  Generating Code...
+  Compiling...
+  mytrace.cpp
+  debug.cpp
+  file.cpp
+  timer.cpp
+  vutil.cpp
+  xutil.cpp
+  dxutil.cpp
+  scanner.cpp
+  Query.cpp
+  exceptionhandler.cpp
+  Generating Code...
+  Rijndael.cpp
+  des.c
+  Certifier.vcxproj -> C:\IAGOS\server\v18\Source\Output\Certifier\Release\Certifier.exe

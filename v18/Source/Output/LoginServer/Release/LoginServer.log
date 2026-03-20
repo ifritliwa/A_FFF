@@ -1,0 +1,33 @@
+﻿  StdAfx.cpp
+  DPCoreClient.cpp
+  DPDatabaseClient.cpp
+  DPLoginSrvr.cpp
+  LoginProtect.cpp
+  LoginServer.cpp
+  memtrace.cpp
+  User.cpp
+  ar.cpp
+  dos2.cpp
+  heapmng.cpp
+  MyTrace.cpp
+  buffer.cpp
+  clientsock.cpp
+  clientsocke.cpp
+  crc.cpp
+  dpmng.cpp
+  dpsock.cpp
+  serversock.cpp
+  serversocke.cpp
+  sock.cpp
+  Generating Code...
+  Compiling...
+  exceptionhandler.cpp
+  dxutil.cpp
+  debug.cpp
+  file.cpp
+  timer.cpp
+  vUtil.cpp
+  xutil.cpp
+  scanner.cpp
+  Generating Code...
+  LoginServer.vcxproj -> C:\IAGOS\server\v18\Source\Output\LoginServer\Release\LoginServer.exe

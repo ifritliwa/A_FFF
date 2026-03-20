@@ -1,0 +1,42 @@
+﻿  StdAfx.cpp
+  CoreServer.cpp
+  DPCacheSrvr.cpp
+  DPCoreSrvr.cpp
+  DPDatabaseClient.cpp
+  dploginsrvr.cpp
+  memtrace.cpp
+  Player.cpp
+  playerdata.cpp
+  rtmessenger.cpp
+  WantedList.cpp
+  exceptionhandler.cpp
+  dxutil.cpp
+  debug.cpp
+  Environment.cpp
+  file.cpp
+  guild.cpp
+  guildwar.cpp
+  InstanceDungeonBase.cpp
+  InstanceDungeonParty.cpp
+  messenger.cpp
+  Generating Code...
+  Compiling...
+  party.cpp
+  timer.cpp
+  vutil.cpp
+  xutil.cpp
+  scanner.cpp
+  buffer.cpp
+  clientsock.cpp
+  clientsocke.cpp
+  dpmng.cpp
+  dpsock.cpp
+  serversock.cpp
+  serversocke.cpp
+  sock.cpp
+  ar.cpp
+  heapmng.cpp
+  MyTrace.cpp
+  ServerDesc.cpp
+  Generating Code...
+  CoreServer.vcxproj -> C:\IAGOS\server\v18\Source\Output\CoreServer\Release\CoreServer.exe
